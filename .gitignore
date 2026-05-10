@@ -1,5 +1,1 @@
-(best_ids.md is just a markdown file, which is source content that shouldn't be ignored)
-
-```markdown
-
-```
+Nothing should be ignored based on the provided file changes. The only added file is a markdown document (`best_terminals_2026.md`), which is a source file and should not be included in `.gitignore`.
