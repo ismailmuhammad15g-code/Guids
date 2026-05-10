@@ -1,265 +1,267 @@
-# Best Terminal in 2026
+# أفضل Terminal في 2026
 
-## Quick Answer
+## الإجابة السريعة
 
-If you want **one terminal to recommend to most developers in 2026**, choose **WezTerm**.
+إذا كنت تريد **ترشيحًا واحدًا فقط لمعظم المطورين في 2026** فاختياري هو:
 
-Why?
-- Excellent balance between **speed**, **stability**, and **advanced features**
-- Works across **Windows, macOS, and Linux**
-- Includes powerful features for serious users such as **tabs, panes, multiplexing, and deep customization**
-- Uses official GPU acceleration and has mature documentation
+### **WezTerm**
 
-If you are on **macOS or Linux** and want the most exciting modern terminal experience with a very native feel, **Ghostty** is the strongest challenger.
+والسبب بسيط:
+- توازن ممتاز بين **السرعة** و**الاستقرار** و**الميزات المتقدمة**
+- يعمل على **Windows وmacOS وLinux**
+- مناسب جدًا للمطورين المحترفين بفضل **tabs** و**panes** و**multiplexing** والتخصيص القوي
+- مشروع ناضج، سريع، وصوره ووثائقه الرسمية واضحة
+
+أما إذا كنت تستخدم **macOS أو Linux** وتريد أكثر تجربة حديثة ومظهرًا Native، فـ **Ghostty** هو أقوى منافس له حاليًا.
 
 ---
 
-## Ranking Summary
+## الترتيب المختصر
 
-| Rank | Terminal | Best For | Main Reason |
+| الترتيب | Terminal | الأفضل له | السبب الرئيسي |
 |---|---|---|---|
-| 1 | **WezTerm** | Most developers | Best all-round balance |
-| 2 | **Ghostty** | macOS/Linux users wanting modern native UX | Very fast, native, feature-rich |
-| 3 | **Warp** | Developers who want AI-first workflows | Modern UI and built-in agentic workflow |
-| 4 | **Kitty** | Linux power users | Extremely strong performance and advanced features |
-| 5 | **Windows Terminal** | Windows users | Best default Windows experience |
-| 6 | **Alacritty** | Minimalists who want raw speed | Fast and clean, but intentionally minimal |
+| 1 | **WezTerm** | أغلب المطورين | أفضل توازن عام |
+| 2 | **Ghostty** | مستخدمو macOS/Linux الذين يريدون تجربة حديثة جدًا | سريع وNative وغني بالميزات |
+| 3 | **Warp** | من يريد Terminal موجهًا للـ AI | تجربة حديثة مع توجه قوي للـ AI |
+| 4 | **Kitty** | مستخدمو Linux المتقدمون | قوي جدًا وسريع واحترافي |
+| 5 | **Windows Terminal** | مستخدمو Windows | أفضل خيار عملي داخل بيئة Windows |
+| 6 | **Alacritty** | من يريد السرعة والبساطة | سريع جدًا ومينيمال |
 
 ---
 
-## 1) WezTerm — Best Overall in 2026
+## 1) WezTerm — الأفضل بشكل عام في 2026
 
 ![WezTerm official screenshot](https://raw.githubusercontent.com/wezterm/wezterm/577474d89ee61aef4a48145cdec82a638d874751/docs/screenshots/two.png)
 
-**Official project:** https://wezterm.org/  
-**Official source:** https://github.com/wezterm/wezterm
+**الموقع الرسمي:** https://wezterm.org/<br>
+**المصدر الرسمي:** https://github.com/wezterm/wezterm
 
-### Why it wins
+### لماذا هو الأفضل؟
 
-WezTerm is the best overall choice because it gives you the package most serious developers want in 2026:
-- very strong performance
-- cross-platform support
-- advanced tabs and panes
-- built-in multiplexer-style workflow
-- powerful configuration for heavy users
+لأن WezTerm يعطيك الخلطة التي يبحث عنها أغلب المطورين:
+- سرعة ممتازة
+- دعم حقيقي لعدة أنظمة
+- إدارة قوية للنوافذ والألسنة والتقسيمات
+- مناسب للعمل المحلي والبعيد
+- قابلية تخصيص عالية جدًا للمستخدم المتقدم
 
-### Best points
+### أهم المميزات
 - GPU-accelerated
 - Cross-platform
-- Great for keyboard-driven workflows
-- Strong for local work and remote work
-- Excellent for people who want one terminal everywhere
+- ممتاز للـ keyboard workflow
+- قوي في التخصيص
+- مناسب جدًا إذا أردت Terminal واحد على كل أجهزتك
 
-### Weak points
-- Configuration can feel advanced for beginners
-- Not the simplest option if you want zero setup
+### نقاط الضعف
+- الإعداد والتخصيص قد يكونان أكثر تعقيدًا للمبتدئ
+- ليس أبسط Terminal لمن يريد تجربة جاهزة 100% بدون أي ضبط
 
-### Verdict
+### الحكم النهائي
 
-If you do not want to overthink it, **pick WezTerm**.
+إذا كنت تريد **أفضل خيار عام بدون تفكير كثير** فاختر **WezTerm**.
 
 ---
 
-## 2) Ghostty — Best Modern Terminal Experience
+## 2) Ghostty — أفضل تجربة حديثة جدًا
 
 ![Ghostty official icon](https://raw.githubusercontent.com/ghostty-org/ghostty/e3e9b51b79c538c3f70a49e4dbda02ccb3cab731/images/icons/icon_256.png)
 
-**Official project:** https://ghostty.org/  
-**Official source:** https://github.com/ghostty-org/ghostty
+**الموقع الرسمي:** https://ghostty.org/<br>
+**المصدر الرسمي:** https://github.com/ghostty-org/ghostty
 
-### Why it is special
+### لماذا هو مميز؟
 
-Ghostty describes itself officially as **fast, native, feature-rich, and cross-platform**. Its project also highlights rich windowing features like **multi-window, tabs, and panes**, while keeping a very modern native feel.
+Ghostty يصف نفسه رسميًا بأنه **سريع، Native، غني بالميزات، وعابر للمنصات**. كما يبرز المشروع دعم **multi-window** و**tabs** و**panes** مع إحساس حديث جدًا في الاستخدام.
 
-### Best points
-- Very modern user experience
-- Native-feeling design
-- Strong feature set
-- Serious performance focus
-- One of the most exciting terminal projects in 2026
+### أهم المميزات
+- تجربة استخدام حديثة جدًا
+- شكل وإحساس Native ممتاز
+- ميزات قوية
+- تركيز واضح على الأداء
+- من أكثر المشاريع إثارة في عالم الـ terminals في 2026
 
-### Weak points
-- For some users, ecosystem habits and configs are still more mature in older terminals
-- If you want the safest universal recommendation across every setup, WezTerm is still easier to recommend broadly
+### نقاط الضعف
+- لبعض المستخدمين ما زال نضج العادات والإعدادات والأدوات المحيطة أقوى في مشاريع أقدم
+- لو أردت ترشيحًا آمنًا جدًا لكل الناس وعلى كل البيئات، يبقى WezTerm أوسع كخيار عام
 
-### Verdict
+### الحكم النهائي
 
-If you use **macOS/Linux** and want a premium modern terminal feel, **Ghostty may be your personal number one**.
+إذا كنت على **macOS أو Linux** وتريد Terminal حديثًا جدًا ومريحًا بصريًا وعمليًا، فـ **Ghostty** قد يكون المفضل لديك شخصيًا.
 
 ---
 
-## 3) Warp — Best for AI-Driven Terminal Work
+## 3) Warp — الأفضل لمن يريد AI داخل الـ Terminal
 
 ![Warp official product preview](https://github.com/user-attachments/assets/9976b2da-2edd-4604-a36c-8fd53719c6d4)
 
-**Official project:** https://www.warp.dev/terminal  
-**Official source:** https://github.com/warpdotdev/warp
+**الموقع الرسمي:** https://www.warp.dev/terminal<br>
+**المصدر الرسمي:** https://github.com/warpdotdev/warp
 
-### Why people choose it
+### لماذا يختاره كثيرون؟
 
-Warp is no longer just a terminal app. Its official description calls it an **agentic development environment, born out of the terminal**. That makes it especially attractive for developers who want AI help directly inside their workflow.
+Warp لم يعد مجرد Terminal تقليدي. الوصف الرسمي له اليوم أنه **agentic development environment, born out of the terminal**، وهذا يجعله جذابًا جدًا للمطورين الذين يريدون AI وworkflow حديث داخل نفس الواجهة.
 
-### Best points
-- Excellent modern interface
-- Strong AI and agent workflow direction
-- Very good for command discovery and productivity
-- Attractive for teams embracing AI-native development
+### أهم المميزات
+- واجهة حديثة جدًا
+- توجه قوي نحو AI وagents
+- جيد جدًا في تحسين الإنتاجية
+- مناسب لمن يحب تجربة حديثة وموجهة أكثر
 
-### Weak points
-- Some developers still prefer more traditional terminals
-- If your priority is classic terminal purity, other options feel cleaner
+### نقاط الضعف
+- بعض المطورين ما زالوا يفضلون الترمينال التقليدي الكلاسيكي
+- إذا كانت أولويتك purity وبساطة terminal قديم الطابع، فهناك خيارات أنسب
 
-### Verdict
+### الحكم النهائي
 
-Choose **Warp** if your workflow revolves around **AI assistance, automation, and modern UX**.
+اختر **Warp** إذا كان شغلك يعتمد كثيرًا على **AI assistance** و**automation** وواجهة حديثة.
 
 ---
 
-## 4) Kitty — Best for Linux Power Users
+## 4) Kitty — الأفضل للمستخدم المتقدم خصوصًا على Linux
 
 ![Kitty official logo](https://raw.githubusercontent.com/kovidgoyal/kitty/07f1a7ac0332857ca9f31aac3147a8b4aad95264/logo/kitty.png)
 
-**Official project:** https://sw.kovidgoyal.net/kitty/  
-**Official source:** https://github.com/kovidgoyal/kitty
+**الموقع الرسمي:** https://sw.kovidgoyal.net/kitty/<br>
+**المصدر الرسمي:** https://github.com/kovidgoyal/kitty
 
-### Why it matters
+### لماذا ما زال مهمًا جدًا؟
 
-Kitty is officially described as a **fast, feature-rich, cross-platform, GPU based terminal**. It has been a favorite for advanced users for a long time because it offers real power without being a toy.
+Kitty يوصف رسميًا بأنه **fast, feature-rich, cross-platform, GPU based terminal**. وهو من الخيارات المحبوبة جدًا عند المستخدمين المتقدمين لأنه قوي فعلاً وليس مجرد شكل جميل.
 
-### Best points
-- Very fast
-- Excellent feature depth
-- Strong graphics and advanced terminal capabilities
-- Loved by keyboard-heavy, Linux-focused power users
+### أهم المميزات
+- سريع جدًا
+- عميق جدًا من ناحية الميزات
+- قوي في الاستخدامات المتقدمة
+- محبوب جدًا عند مستخدمي Linux والـ power users
 
-### Weak points
-- Not the most beginner-friendly
-- Less “native modern app” feeling than Ghostty
+### نقاط الضعف
+- ليس الأسهل للمبتدئين
+- من ناحية الإحساس العصري والـ Native UX، Ghostty يبدو أحدث
 
-### Verdict
+### الحكم النهائي
 
-If you are a **Linux power user** and want a serious terminal with a deep feature set, **Kitty** is still elite.
+إذا كنت **Power User** خصوصًا على Linux وتريد Terminal قويًا جدًا، فـ **Kitty** يبقى من النخبة.
 
 ---
 
-## 5) Windows Terminal — Best for Windows Users
+## 5) Windows Terminal — الأفضل لمستخدمي Windows
 
 ![Windows Terminal official panes screenshot](https://raw.githubusercontent.com/microsoft/terminal/d3f76e7acf88436497850ce36ca4fa5c8bb61be0/doc/images/panes.png)
 
-**Official project:** https://aka.ms/terminal  
-**Official source:** https://github.com/microsoft/terminal
+**الموقع الرسمي:** https://aka.ms/terminal<br>
+**المصدر الرسمي:** https://github.com/microsoft/terminal
 
-### Why it belongs here
+### لماذا دخل القائمة؟
 
-Windows Terminal is the best practical choice for many Windows users because it is official, modern, and productive. Its official repo highlights important features such as **tabs, rich text, configurability, theming, and more**.
+لأن Windows Terminal هو الخيار العملي والأذكى لكثير من مستخدمي Windows. المستودع الرسمي يبرز ميزات مهمة مثل **tabs** و**rich text** و**configurability** و**theming** وغيرها.
 
-### Best points
-- Best native choice for Windows
-- Great integration with PowerShell, CMD, WSL, and SSH
-- Clean tabs and panes workflow
-- Easy recommendation for Windows-first developers
+### أهم المميزات
+- أفضل خيار Native داخل Windows
+- ممتاز مع PowerShell وCMD وWSL وSSH
+- tabs وpanes ممتازة
+- سهل الترشيح لأي مستخدم Windows
 
-### Weak points
-- If you need deeper cross-platform consistency, WezTerm is stronger
-- Not usually the first choice for terminal purists on macOS/Linux
+### نقاط الضعف
+- إذا أردت نفس التجربة تقريبًا على كل الأنظمة فـ WezTerm أقوى
+- ليس الخيار الأول لعشاق الترمينال الكلاسيكي على macOS/Linux
 
-### Verdict
+### الحكم النهائي
 
-If your main machine is **Windows**, this is one of the easiest and smartest choices.
+إذا كان جهازك الأساسي **Windows** فهذا من أذكى وأسهل الخيارات.
 
 ---
 
-## 6) Alacritty — Best for Pure Speed and Simplicity
+## 6) Alacritty — الأفضل للسرعة والبساطة
 
 ![Alacritty official screenshot](https://raw.githubusercontent.com/alacritty/alacritty/master/extra/promo/alacritty-readme.png)
 
-**Official project:** https://alacritty.org/  
-**Official source:** https://github.com/alacritty/alacritty
+**الموقع الرسمي:** https://alacritty.org/<br>
+**المصدر الرسمي:** https://github.com/alacritty/alacritty
 
-### Why people still love it
+### لماذا لا يزال محبوبًا؟
 
-Alacritty remains one of the most respected terminals for users who want speed, simplicity, and minimal overhead. Its official README positions it as a **fast, cross-platform, OpenGL terminal emulator**.
+Alacritty ما زال من أكثر الـ terminals احترامًا عند من يريد السرعة والبساطة وقلة التعقيد. README الرسمي يصفه بأنه **fast, cross-platform, OpenGL terminal emulator**.
 
-### Best points
-- Extremely fast
-- Clean and minimal
-- Excellent if you prefer external tools instead of built-in extras
+### أهم المميزات
+- سريع جدًا
+- بسيط ونظيف
+- ممتاز لمن يحب الأدوات الخارجية بدل الميزات المدمجة
 
-### Weak points
-- Intentionally minimal
-- Fewer built-in workflow conveniences than WezTerm or Ghostty
+### نقاط الضعف
+- بسيط بشكل متعمد
+- لا يقدم نفس الراحة أو الميزات المدمجة الموجودة في WezTerm أو Ghostty
 
-### Verdict
+### الحكم النهائي
 
-If your philosophy is **“do one thing fast and well”**, Alacritty is still one of the best choices.
-
----
-
-## Best Terminal by Use Case
-
-### Choose **WezTerm** if:
-- you want the best overall balance
-- you work on multiple operating systems
-- you want advanced features without giving up speed
-
-### Choose **Ghostty** if:
-- you want the most modern-feeling terminal
-- you care about native UX a lot
-- you mainly use macOS or Linux
-
-### Choose **Warp** if:
-- you want AI built into your terminal workflow
-- you like modern product design
-- you want a more guided experience
-
-### Choose **Kitty** if:
-- you are a Linux power user
-- you want deep features and strong performance
-
-### Choose **Windows Terminal** if:
-- Windows is your main platform
-- you want the most practical native option
-
-### Choose **Alacritty** if:
-- you want minimalism
-- you want speed above everything
+إذا كانت فلسفتك: **أريد شيئًا سريعًا جدًا وبدون إضافات كثيرة** فـ **Alacritty** خيار ممتاز.
 
 ---
 
-## Final Recommendation
+## أي Terminal تختار حسب استخدامك؟
 
-### Best Overall
+### اختر **WezTerm** إذا:
+- تريد أفضل توازن عام
+- تعمل على أكثر من نظام
+- تريد ميزات قوية بدون التضحية بالسرعة
+
+### اختر **Ghostty** إذا:
+- تريد أكثر تجربة حديثة ومريحة بصريًا
+- تهتم جدًا بالـ Native UX
+- تعمل غالبًا على macOS أو Linux
+
+### اختر **Warp** إذا:
+- تريد AI داخل الـ Terminal نفسه
+- تحب الواجهات الحديثة
+- تريد تجربة أكثر توجيهًا ومساعدة
+
+### اختر **Kitty** إذا:
+- أنت مستخدم متقدم
+- تريد عمقًا كبيرًا في الميزات والأداء
+
+### اختر **Windows Terminal** إذا:
+- Windows هو نظامك الأساسي
+- تريد أفضل خيار عملي ومباشر
+
+### اختر **Alacritty** إذا:
+- تريد البساطة
+- تريد السرعة فوق كل شيء
+
+---
+
+## التوصية النهائية
+
+### الأفضل بشكل عام
 **WezTerm**
 
-### Best Modern Challenger
+### أفضل منافس حديث
 **Ghostty**
 
-### Best AI-Oriented Choice
+### الأفضل لعشاق AI
 **Warp**
 
-### Best for Windows
+### الأفضل لمستخدمي Windows
 **Windows Terminal**
 
-### Best for Minimalists
+### الأفضل لعشاق البساطة والسرعة
 **Alacritty**
 
 ---
 
-## Notes About the Images
+## ملاحظات مهمة عن الصور
 
-All images above are taken from **official project repositories or official project assets**, not random stock images.
+كل الصور في هذا الدليل مأخوذة من **المصادر الرسمية للمشاريع نفسها** أو من **الأصول الرسمية داخل مستودعاتها**، وليست صورًا عشوائية.
 
-Image sources used in this guide:
-- WezTerm official screenshot from the official GitHub repository
-- Ghostty official icon from the official GitHub repository
-- Warp official product preview from the official GitHub README assets
-- Kitty official logo from the official GitHub repository
-- Windows Terminal official screenshot from the official GitHub repository
-- Alacritty official screenshot from the official GitHub repository
+مصادر الصور المستخدمة هنا:
+- صورة WezTerm من المستودع الرسمي
+- أيقونة Ghostty من المستودع الرسمي
+- صورة Warp من الأصول الرسمية في README الرسمي
+- شعار Kitty من المستودع الرسمي
+- صورة Windows Terminal من المستودع الرسمي
+- صورة Alacritty من المستودع الرسمي
 
 ---
 
-## Official Sources
+## المصادر الرسمية
 
 - WezTerm: https://github.com/wezterm/wezterm
 - Ghostty: https://github.com/ghostty-org/ghostty
@@ -270,4 +272,4 @@ Image sources used in this guide:
 
 ---
 
-*Last updated: May 2026*
+*آخر تحديث: مايو 2026*
