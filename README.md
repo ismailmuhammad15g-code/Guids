@@ -28,3 +28,8 @@ Example:
 ## Contributing
 
 Contributions are welcome. Feel free to open a PR with additional GUIDs or improvements to this README.
+
+## Guides
+
+- [The Ultimate Guide to Integrated Development Environments (IDEs)](./best_ids.md)
+- [Best Terminal in 2026](./best_terminal_2026.md)
