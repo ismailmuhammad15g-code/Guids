@@ -1,1 +1,5 @@
-Nothing should be ignored based on the provided file changes. The only added file is a markdown document (`best_terminals_2026.md`), which is a source file and should not be included in `.gitignore`.
+# Documentation and guide images
+guide-images/
+
+# Local server guide
+LOCAL_SERVER_GUIDE.md
